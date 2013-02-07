@@ -1,0 +1,2 @@
+{ foo : 42, // comment until end-of-line
+  bar : 99 }

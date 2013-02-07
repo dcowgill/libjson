@@ -1,0 +1,6 @@
+{ abc /* time for
+a multi-line
+comment */
+: 123 }
+/* this should also
+ * be ignored */
